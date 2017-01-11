@@ -1,5 +1,5 @@
-# webpack 
+ï»¿# webpack 
 
-	ÒÀ´Î°²×°ÒÀÀµ°ü
+	ä¾æ¬¡å®‰è£…ä¾èµ–åŒ…
 
 	npm i babel-loader babel-core babel-preset-es2015 babel-preset-react
