@@ -1,5 +1,3 @@
 ﻿# webpack 
 
-	## 依次安装依赖包
-
-	npm i babel-loader babel-core babel-preset-es2015 babel-preset-react vue
+依赖包，已经在package.json里声明了
